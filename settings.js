@@ -13,8 +13,8 @@ global.APIKeys = {
 }
 
 // setting 
-global.autoread = false // auto read message
-global.autobio = false //auto ganti bio
+global.autoread = true // auto read message
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
 global.userRegister = false 
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
@@ -27,24 +27,24 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "Fabian-Botz" //namabot kalian
-global.ownername= "Fabian" //nama kalian
+global.botname = "MiMi-Botz" //namabot kalian
+global.ownername= "Owner MiMi" //nama kalian
 global.myweb ="Tidak Ada" //bebas asal jan hapus
 global.youtube = "Tidak Ada" //bebas asal jan hapus
 global.myweb2 = "Tidak Ada" //bebas
-global.email = "fabian.01ste@gmail.com" //bebas
+global.email = "fgustyasfaizulhilmi7c@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6282333590334'] //premium user
-global.owner = ["6282333590334","6282333590334"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6282333590334" // nomor wa kalian
-global.ownernomerr = "+6282333590334" //nmr wa kalian
-global.thumbnail = "./image/20230101_083419.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/20230101_083544.jpg" // foto donasi di folder image
+global.premium = ['6282143349069'] //premium user
+global.owner = ["6282143349069","6282143349069"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6282143349069" // nomor wa kalian
+global.ownernomerr = "+6282143349069" //nmr wa kalian
+global.thumbnail = "lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "lol.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = '' //sticker wm ubah
-global.author = 'Stiker Di Buat Oleh Fabian-Botz' //sticker wm ganti nama kalian
+global.author = 'Stiker Di Buat Oleh MiMiBotz' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 global.multiplier = 69
