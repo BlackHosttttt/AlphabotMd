@@ -716,7 +716,7 @@ exports.notNum = (q) => {
 }
 exports.menunya = (salam, pushname, botname) =>{
 	return`Hai kak ${pushname} 👋 selamat ${salam} , 
-saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp.
+saya ${botname}, bot ini adalah Beta Multi-Device Whatsapp Yang di ciptakan oleh Lord Hilmi.
 `
 }
 exports.listMenu = (time, salam, pushname, prefix) => {
